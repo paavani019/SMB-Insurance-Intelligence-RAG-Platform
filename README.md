@@ -83,12 +83,6 @@ See the in-app **About** page for the full list.
 
 ---
 
-## Repository
-
-[github.com/hemanthsai126/Insurance-Copilot](https://github.com/hemanthsai126/Insurance-Copilot)
-
----
-
 ## Disclaimer
 
 This project is for **education and demos**. Model outputs, premium bands, and demo quotes are **not** binding insurance products. Use licensed professionals for coverage, claims, and compliance decisions in your jurisdiction.
