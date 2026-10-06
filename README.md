@@ -12,25 +12,25 @@
 
 Business profile inputs, enriched location context (FEMA NFHL, OSM, weather archive, crime proxy), and risk outputs with SHAP-style feature attribution.
 
-![Home — inputs, enrichment, risk & SHAP](docs/screenshots/home-underwriting-dashboard.png)
+![Home — inputs, enrichment, risk & SHAP]
 
 ### Home — key risks, gaps, premium band & recommendations
 
 Industry and location-driven risks, **coverage gaps** vs extracted policy text, heuristic **premium band**, and prioritized actions.
 
-![Key risks, coverage gaps, premium estimate, recommendations](docs/screenshots/home-risks-recommendations.png)
+![Key risks, coverage gaps, premium estimate, recommendations]
 
 ### Risko — insurance-only assistant
 
 Local **Ollama** + **Qwen 2.5** by default; Markdown answers with lists and tables. No cloud API key required for the default setup.
 
-![Risko chat — Ollama / Qwen 2.5](docs/screenshots/risko-assistant.png)
+![Risko chat — Ollama / Qwen 2.5]
 
 ### Compare quotes
 
 Multi-step wizard; without `INSURANCE_QUOTES_API_URL`, **demonstration** carrier tiles with illustrative premiums.
 
-![Compare quotes — demo carrier tiles](docs/screenshots/compare-quotes.png)
+![Compare quotes — demo carrier tiles]
 
 ---
 
